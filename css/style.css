@@ -6,7 +6,7 @@
 }
 /* fine reset */
 html{
-    font-size: 12px;
+    font-size: 15px;
 }
 .m-1{
     margin-left: 1%;
@@ -41,20 +41,51 @@ h1{
 .tim{
     padding: 20px 0;
 }
+
 .desc-photo{
     font-size: 15px;
 }
+
 .yellow{
     background-color: yellow;
     display: inline-block;
     font-size: 20px;
 }
-.Lorem1{
+
+.p-speciale{
     font-size: 20px;
     margin-right: 0.5%;
     padding: 20px 0;
 }
+
 ul{
     font-size: 20px;
     margin-left: 2%;
+}
+
+thead{
+    font-size: 20px;
+    color: white;
+    background-color: turquoise;
+}
+
+.turquise{
+    width: 30%;
+    height: 10%;
+    margin-right: 20px;
+}
+
+.tr-color{
+    background-color: rgba(144, 240, 247, 0.986);  
+    }
+
+.lorem{
+    width: 30px;
+    height: 50px;
+    font-size: 20px;
+    }
+
+.lorem2{
+    font-size: 18px;
+    margin-left: 2px;
 }
