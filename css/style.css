@@ -1,8 +1,60 @@
-/*reset*/
+/* reset */
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-/*fine reset*/
+/* fine reset */
+html{
+    font-size: 12px;
+}
+.m-1{
+    margin-left: 1%;
+}
+.intro{
+    background-image: url(../img/pattern.png);
+    background-repeat:repeat;
+    background-size: cover;
+    background-size: 17%;
+    background-color: rgb(0, 174, 255);
+    
+}
+ .immagine{
+    width: 13%;
+    padding: 20px 0;
+    }
+h1{
+    font-size: 3rem;
+    padding: 10px 0;
+    margin-right: 40%;
+    }
 
+.blue{
+    color: rgba(0, 162, 255, 0.925);
+    margin-top: 0;
+}
+.special{
+    color: rgba(163, 163, 162, 0.959);
+    font-size: 15px;
+}
+
+.tim{
+    padding: 20px 0;
+}
+.desc-photo{
+    font-size: 15px;
+}
+.yellow{
+    background-color: yellow;
+    display: inline-block;
+    font-size: 20px;
+}
+.Lorem1{
+    font-size: 20px;
+    margin-right: 0.5%;
+    padding: 20px 0;
+}
+ul{
+    font-size: 20px;
+    margin-left: 2%;
+}
