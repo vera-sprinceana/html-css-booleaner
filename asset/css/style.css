@@ -1,0 +1,101 @@
+/* reset */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* fine reset */
+
+.intro{
+    background-image: url(../img/pattern.png);
+    background-size: 17%;
+    background-color: rgb(0, 174, 255);
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+ .immagine{
+    height: 50px;
+    }
+h1{
+    font-size: 3rem;
+    padding: 10px 0;
+    margin-right: 40%;
+    }
+
+.blue{
+    color: rgba(0, 162, 255, 0.925);
+    margin-top: 0;
+}
+.special{
+    color: rgba(163, 163, 162, 0.959);
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.tim{
+    padding: 20px 0;
+}
+
+.desc-photo{
+    font-size: 15px;
+}
+.p{
+    margin-left:1% ;
+    margin-top: 10px;
+}
+
+.yellow{
+    background-color: yellow;
+    display: inline-block;
+}
+
+li{
+    margin-left: 2%;
+}
+.m-top{
+    margin-top: 10px;
+}
+table{
+    text-align: left;
+    border-spacing: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.width-20{
+    width: 20%;
+}
+.turquise{
+    margin-right: 20px;
+}
+.f-white{
+    color: white;
+}
+.tr-blue{
+    background-color: rgba(107, 192, 241, 0.904);  
+    }
+    
+.bg-l-blue{
+    box-sizing: 50px;
+    background-color: rgb(179, 231, 247);
+}
+
+.monitor{
+    background-image: url(./../img/monitor.jpg);
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.graph{
+    background-image: url(./../img/graph.jpg);
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+footer div{
+    padding-left: 10px;
+    padding-top: 10px;
+}
